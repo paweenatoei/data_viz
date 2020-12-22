@@ -8,8 +8,11 @@
 ![5AAC083B-8A40-47A4-A94A-0B683779540D](5AAC083B-8A40-47A4-A94A-0B683779540D.jpeg)
 
 ขั้นตอนการ Save ไฟล์จาก Colab มา Github
+
 1.เข้าระบบไว้ทั้ง 2 เว็บ ทั้ง github,colab เพื่อให้ทั้งสองเว็บลิงค์กันได้
+
 2.หลังจากเขียนโค้ดบน colab เสร็จแล้ว ให้ไปคลิกที่ File จากนั้นคลิก Save a copy in GitHub
 ![E6246DC2-AAAC-4227-94C6-7DABB2ED346E](E6246DC2-AAAC-4227-94C6-7DABB2ED346E.png)
 
 3.จากนั้นจะขึ้นหน้าต่างดังรูป ให้แก้ไขชื่อไฟล์ที่ File path และใส่คำอธิบายว่าแก้ไขหรือทำอะไรไปบ้างที่ Commit message จากนั้นคลิก OK จากนั้น Colab จะ save file ไปยัง github
+![C5C50BDE-A5BC-4352-8280-33FBE172A03B](C5C50BDE-A5BC-4352-8280-33FBE172A03B.png)
